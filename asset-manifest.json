@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RMportal/static/css/main.93e8e238.css",
+    "main.js": "/RMportal/static/js/main.62d7a00a.js",
+    "static/js/787.b3365026.chunk.js": "/RMportal/static/js/787.b3365026.chunk.js",
+    "static/media/l_banner.svg": "/RMportal/static/media/l_banner.79c3c235bbc707ab08cf0edc60a9a13d.svg",
+    "static/media/Screaming_sun.svg": "/RMportal/static/media/Screaming_sun.c0aabc618b758b1f5085206b71daba18.svg",
+    "static/media/def.svg": "/RMportal/static/media/def.f08184ae19b3197877df9f87ef36fe26.svg",
+    "static/media/r_banner.svg": "/RMportal/static/media/r_banner.74a38802f44562cdbe6dc59a189733c5.svg",
+    "index.html": "/RMportal/index.html",
+    "static/media/eye.svg": "/RMportal/static/media/eye.a7f72f5e7f4b9b37d21ccf43689ce476.svg",
+    "static/media/Menu.svg": "/RMportal/static/media/Menu.1eafce19c797403963c4073f7d0d8fdf.svg",
+    "main.93e8e238.css.map": "/RMportal/static/css/main.93e8e238.css.map",
+    "main.62d7a00a.js.map": "/RMportal/static/js/main.62d7a00a.js.map",
+    "787.b3365026.chunk.js.map": "/RMportal/static/js/787.b3365026.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93e8e238.css",
+    "static/js/main.62d7a00a.js"
+  ]
+}
