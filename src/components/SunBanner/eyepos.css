@@ -1,0 +1,24 @@
+#LeftSocket, #RightSocket{
+    position: absolute;
+    z-index: -1;
+    top: 210px;
+    transform: rotate(-90deg);
+}
+#LeftSocket img, #RightSocket img{
+    width: 20px;
+    height: 20px;
+}
+#LeftSocket{
+    right: 280px;
+    width: 33px;
+    height: 33px;
+    border-radius: 20px;
+    background-color: white;
+}
+#RightSocket{
+    right: 200px;
+    width: 33px;
+    height: 33px;
+    border-radius: 20px;
+    background-color: white;
+}
